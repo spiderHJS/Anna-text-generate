@@ -1,0 +1,6 @@
+model_checkpoint_path: "i198_l512.ckpt"
+all_model_checkpoint_paths: "i160_e0.ckpt"
+all_model_checkpoint_paths: "i170_e0.ckpt"
+all_model_checkpoint_paths: "i180_e0.ckpt"
+all_model_checkpoint_paths: "i190_e0.ckpt"
+all_model_checkpoint_paths: "i198_l512.ckpt"

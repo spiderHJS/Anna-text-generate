@@ -1,0 +1,6 @@
+model_checkpoint_path: "i30.ckpt"
+all_model_checkpoint_paths: "../checkpoints/i5910_e29.ckpt"
+all_model_checkpoint_paths: "../checkpoints/i5920_e29.ckpt"
+all_model_checkpoint_paths: "../checkpoints/i5930_e29.ckpt"
+all_model_checkpoint_paths: "../checkpoints/i5940_e29.ckpt"
+all_model_checkpoint_paths: "i30.ckpt"
